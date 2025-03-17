@@ -1,0 +1,15 @@
+body {
+   text-align: center;
+
+   background-color:rgb(58, 9, 0);
+
+   color:rgb(236, 148, 228);
+
+}
+a:hover {
+    color:gold; 
+
+}
+img {
+    width:300px;
+}
